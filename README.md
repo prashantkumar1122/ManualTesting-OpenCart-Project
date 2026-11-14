@@ -1,81 +1,88 @@
 # Manual Testing of OpenCart Web Application
 
 **Project By:** PRASHANT KUMAR  
-**Role:** QA Tester  
+**Role:** Manual QA Tester  
 **University:** GLA University
 
 ## Project Overview
 
-This project focuses on the manual testing of the OpenCart web application to verify its functionality, usability, and reliability. It includes test scenarios, detailed test cases, test execution results, and bug reports to support a structured software testing process.
+This project focuses on manual testing of the OpenCart web application to verify its functionality and identify potential defects.
 
-The objective of this project is to identify defects, validate expected application behavior, and ensure that the tested features work as intended.
+It includes test scenarios, detailed test cases, manual test execution, execution results, and bug reports documented using Microsoft Excel. The objective is to compare actual application behavior with expected results and report discrepancies.
 
-## Project Features
+## OpenCart QA Testing Workflow
 
-1. **Test Scenarios:** Identifies the major functionalities and conditions to be tested.
-2. **Test Cases:** Provides detailed test steps, test data, and expected results.
-3. **Test Execution Results:** Documents executed test cases, actual results, and pass/fail status.
-4. **Bug Reporting:** Records defects found during testing, including descriptions and reproduction steps.
-5. **Defect Tracking:** Helps organize and communicate issues identified during manual testing.
+The diagram below illustrates the end-to-end manual testing workflow, from test planning and test case design to execution, result recording, and defect reporting.
 
-## Project Files and Structure
+![OpenCart QA Testing Workflow](screenshots/opencart-qa-testing-workflow.png)
+
+## Modules Tested
+
+- User Registration
+- User Login and Logout
+- Forgot Password
+- Product Search
+- Product Comparison
+- Product Display Page
+- Add to Cart
+
+## Project Files
 
 | File Name | Description |
 |---|---|
-| `OpenCart-Test Scenarios.xlsx` | Contains test scenarios covering different functionalities of the OpenCart application. |
-| `OpenCart-TestCases.xlsx` | Contains detailed test cases, including test steps, test data, and expected results. |
-| `OpenCart-TestExecution Results.xlsx` | Documents test execution details, actual results, and test statuses. |
-| `OpenCart - Bug Report.xlsx` | Records defects and issues identified during testing, along with relevant bug details. |
+| `OpenCart-Test Scenarios.xlsx` | Test scenarios for the selected application functionalities. |
+| `OpenCart-TestCases.xlsx` | Test steps, test data, and expected results. |
+| `OpenCart-TestExecution Results.xlsx` | Actual results and Pass/Fail execution status. |
+| `OpenCart - Bug Report.xlsx` | Identified defects, descriptions, and reproduction steps. |
 
 ## Testing Approach
 
-The project follows a structured manual testing approach:
+1. Explore the OpenCart application and identify the features to be tested.
+2. Prepare test scenarios for the selected modules.
+3. Design test cases with test steps, test data, and expected results.
+4. Execute the test cases manually.
+5. Compare actual results with expected results and record the execution status.
+6. Document defects when the actual behavior differs from the expected behavior.
 
-1. Review the available project requirements and application functionality.
-2. Identify the features and scenarios that need to be tested.
-3. Prepare test cases with clear steps and expected results.
-4. Execute the test cases manually on the OpenCart web application.
-5. Record actual results and compare them with expected results.
-6. Report defects when actual behavior differs from expected behavior.
-7. Document execution results for review and future reference.
+## Testing Types and Techniques
 
-## Getting Started
-
-To use this project:
-
-1. Clone or download this GitHub repository.
-2. Download the four Excel files included in the repository.
-3. Open the test scenarios and test cases to understand the testing scope.
-4. Execute the test cases against the OpenCart application.
-5. Record the results in the test execution workbook.
-6. Document any identified defects in the bug report workbook.
+- Functional Testing
+- Positive and Negative Testing
+- Black-Box Testing
+- Equivalence Partitioning
+- Boundary Value Analysis
+- Test Case Design and Execution
+- Defect Reporting
 
 ## Tools and Technologies
 
 - **Application Under Test:** OpenCart
-- **Testing Type:** Manual Testing
+- **Testing:** Manual Testing
 - **Documentation:** Microsoft Excel
-- **Version Control and Project Hosting:** Git and GitHub
+- **Version Control and Hosting:** Git and GitHub
 
-## Project Objectives
+## How to Use This Project
 
-- Validate the functionality of the OpenCart web application.
-- Identify and document software defects.
-- Verify that actual results match expected results.
-- Maintain organized test documentation.
-- Gain practical experience in manual software testing and defect reporting.
+1. Clone or download this repository.
+2. Open the Excel files included in the repository.
+3. Review the test scenarios and test cases.
+4. Execute the test cases against the OpenCart application.
+5. Record actual results and execution status.
+6. Document identified defects in the bug report workbook.
+
+## Key Learning Outcomes
+
+- Understanding manual testing concepts and processes.
+- Writing and executing test cases.
+- Applying positive and negative testing techniques.
+- Identifying and documenting software defects.
+- Maintaining structured testing documentation.
 
 ## Author
 
 **PRASHANT KUMAR**  
-QA Tester | GLA University
-
-## Contributions
-
-Suggestions and improvements related to test coverage, test scenarios, and defect documentation are welcome. Please open an issue or submit a pull request with your proposed changes.
+Manual QA Tester | B.Tech CSE | GLA University
 
 ---
 
-*This project is created for learning and practical experience in software quality assurance and manual testing.*
-
-**Happy Testing!** 🚀
+*This project was created for learning and practical experience in software quality assurance and manual testing.*
