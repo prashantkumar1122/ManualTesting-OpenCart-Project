@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="Opencart workflow" src="https://github.com/user-attachments/assets/eef263b0-1771-4a1a-b984-35fc057f529f" />
 # Manual Testing of OpenCart Web Application
 
 **Project By:** PRASHANT KUMAR  
