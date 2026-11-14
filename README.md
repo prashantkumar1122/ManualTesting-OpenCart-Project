@@ -1,4 +1,3 @@
-<img width="1376" height="768" alt="Opencart workflow" src="https://github.com/user-attachments/assets/eef263b0-1771-4a1a-b984-35fc057f529f" />
 # Manual Testing of OpenCart Web Application
 
 **Project By:** PRASHANT KUMAR  
@@ -15,7 +14,7 @@ It includes test scenarios, detailed test cases, manual test execution, executio
 
 The diagram below illustrates the end-to-end manual testing workflow, from test planning and test case design to execution, result recording, and defect reporting.
 
-![OpenCart QA Testing Workflow](screenshots/opencart-qa-testing-workflow.png)
+![OpenCart QA Testing Workflow](Opencart%20workflow.jpg)
 
 ## Modules Tested
 
