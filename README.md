@@ -14,7 +14,7 @@ It includes test scenarios, detailed test cases, manual test execution, executio
 
 The diagram below illustrates the end-to-end manual testing workflow, from test planning and test case design to execution, result recording, and defect reporting.
 
-![OpenCart QA Testing Workflow](Opencart%20workflow.jpg)
+![OpenCart QA Testing Workflow](https://raw.githubusercontent.com/prashantkumar1122/ManualTesting-OpenCart-Project/23df3d6eb52b3ce03c1437305b791c087c47a7df/Opencart%20workflow.jpg)
 
 ## Modules Tested
 
